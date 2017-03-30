@@ -1,0 +1,45 @@
+body {
+	margin-top: 50px;
+	border: solid 1px black;
+	width: 800px;
+	height: 500px;
+	font-size: 0;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.rowone {
+	width: 50%;
+	height: 200px;
+	display: inline-block;
+	font-size: 0;
+	border: solid 1px black;
+}
+
+.green-box{
+	background-color: green;
+}
+
+.blue-box{
+	background-color: blue;
+}
+
+.rowtwo {
+	width: 33.3333333%; /** Is there a better way to do this? 33.33% leaves a 1px pad **/
+	height: 300px;
+	display: inline-block;
+	font-size: 0;
+	border: solid 1px black;
+}
+
+.gray-box{
+	background-color: gray;
+}
+
+.black-box{
+	background-color: black;
+}
+
+.yellow-box{
+	background-color: yellow;
+}
